@@ -82,6 +82,6 @@ After you have ran these commands you should have wine tricks and some msi's, bu
   
   
   
-  Thanks to https://github.com/fcwu/docker-ubuntu-vnc-desktop for letting me use theyre original code.
+  Thanks to https://github.com/fcwu/docker-ubuntu-vnc-desktop for letting me use they're original code.
 
   
