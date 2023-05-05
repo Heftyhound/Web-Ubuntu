@@ -18,7 +18,7 @@ Once the tab is opened, refresh the tab after 5 seconds and then it should appea
 There you go you are all set-up but if you want to install wine and other things please direct your attention to the below section.
 
 
-# Wine set-up, Mono, etc
+## Wine set-up, Mono, etc
 
   # Wine
    First you want to set your architecture to i386, which you can do with the commands below:
